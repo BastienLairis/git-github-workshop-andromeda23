@@ -9,7 +9,7 @@ const Header = () => {
         alignItems: "center",
       }}
     >
-      Je suis le header
+      Je suis le header / Petite modification depuis la branche bastien-front
     </header>
   );
 };
