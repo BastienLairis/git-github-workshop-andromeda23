@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Header />
       <h1>Hello github workshop !</h1>
+      <p>Modification depuis vsCode</p>
     </div>
   );
 }
